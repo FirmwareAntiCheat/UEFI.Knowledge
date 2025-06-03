@@ -13,7 +13,7 @@ https://uefi.org
 # Specification:
 https://uefi.org/specs/UEFI/2.10/03_Boot_Manager.html
 
-https://uefi.org/sites/default/files/resources/UEFI_Spec_Final_2.11.pdf 
+https://uefi.org/sites/default/files/resources/UEFI_Spec_Final_2.11.pdf
 
 # Site:
 https://forum.osdev.org/index.php
